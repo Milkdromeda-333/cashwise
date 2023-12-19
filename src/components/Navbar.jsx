@@ -40,7 +40,7 @@ export default function Navbar() {
           ">
               <PiShoppingBagThin className="text-3xl inline-block" />
 
-              <span className="w-[1px] h-3/4 bg-zinc-300"></span>
+              <span className="w-[5px] h-3/4 bg-zinc-500"></span>
 
               <a href="/login">Log in</a>
 

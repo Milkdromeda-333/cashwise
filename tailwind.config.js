@@ -11,8 +11,8 @@ export default {
     },
     extend: {
       colors: {
-        "brand-lightMint": "#d1d5db",
-        "brand-mint": "#009957",
+        "brand-lightMint": "#ddf1e6",
+        "brand-darkGreen": "#203f3c",
         "brand-creme": "#f0f0e4",
       }
     },
