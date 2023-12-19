@@ -13,7 +13,7 @@ export default {
       colors: {
         "brand-lightMint": "#ddf1e6",
         "brand-darkGreen": "#203f3c",
-        "brand-creme": "#f0f0e4",
+        "brand-creme": "#f7f7f3",
       }
     },
   },
