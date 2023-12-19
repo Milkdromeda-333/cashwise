@@ -8,7 +8,24 @@ export default function WatchDemo() {
               src="/images/person-at-computer.jpg"
               alt="person at computer"
                className="rounded-3xl w-full h-full object-cover"
-          />
+      />
+      
+      <span className="absolute top-0 left-4 lg:bottom-1 text-white lg:top-auto">
+        Photo by
+        <a
+          href="https://unsplash.com/@microsoft365?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+          className="underline mx-1"
+        >
+          Microsoft 365
+        </a>
+        on
+        <a
+          href="https://unsplash.com/photos/a-woman-sitting-at-a-table-using-a-laptop-computer-kTFmwxkF5bQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+          className="underline mx-1"
+        >
+          Unsplash
+        </a>
+      </span>
           
           <div
             className="
