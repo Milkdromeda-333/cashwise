@@ -16,7 +16,7 @@ export default function Navbar() {
         ${isMobileNavOpen ? "bg-white" : "bg-brand-creme"}
         lg:px-14 lg:py-4 lg:bg-white
     `}>
-          <span className="font-brand text-brand-mint text-3xl ">
+          <span className="font-brand text-brand-mint smallHeader lg:text-3xl">
               CashWise
           </span>
           

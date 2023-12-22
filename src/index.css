@@ -7,6 +7,10 @@
     @apply text-5xl font-brand lg:text-8xl;
   }
 
+  .smallHeader {
+   @apply  text-3xl lg:text-4xl;
+  }
+
   .secondHeader {
     @apply text-4xl font-brand lg:text-6xl;
   }
