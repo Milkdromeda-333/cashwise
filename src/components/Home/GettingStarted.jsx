@@ -35,14 +35,14 @@ export default function GettingStarted() {
 
   return (
     <section className="
-    bg-gray-200 -mx-3 my-12 px-3 md:-m-16
+    bg-gray-200 my-12 px-3
       flex flex-col justify-center gap-8 md:flex-row
       ">
         
         {/* https://blush.design/illustration/s/zOh1CCnH9zLcJO-w */}
         <div>
           <div className="flex flex-col py-12 sticky top-0 left-0 ">
-            <h2 className="smallHeader">Getting Started with CashWise</h2>
+            <h2 className="smallHeader font-brand">Getting Started with CashWise</h2>
             <img
               src="/images/sitOnFloor.png"
               alt="hand drawn person sitting on the floor with computer"

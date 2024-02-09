@@ -4,7 +4,7 @@ import StartFreeTrialBtn from '../lib/StartFreeTrialBtn'
 export default function Benefits() {
 
   return (
-      <section className="flex flex-col gap-4">
+      <section className="flex flex-col gap-4  mx-8">
           <div className='flex flex-col gap-4 lg:flex-row lg:justify-between lg:items-end'>
               <h2 className='secondHeader md:max-w-[70%]'>We simply finance for effortless goal achievement</h2>
                 <StartFreeTrialBtn styles="ring-1 ring-brand-darkGreen w-fit" />
