@@ -1,6 +1,8 @@
 import Header from "../components/Home/Header"
 import Benefits from "../components/Home/Benefits"
 import WatchDemo from "../components/Home/WatchDemo";
+import GettingStarted from "../components/Home/GettingStarted";
+
 
 export default function Home() {
 
@@ -15,7 +17,9 @@ export default function Home() {
             <WatchDemo/>
           </div>
       
-          <Benefits />
+      <Benefits />
+      <GettingStarted />
+        <div className="h-[1000px] bg-black">ss</div>
     </div>
   )
 }
